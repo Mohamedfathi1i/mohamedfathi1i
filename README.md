@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React , Angular , Clean Code Architecture 👨‍💻**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/mohamed--fathi](https://www.linkedin.com/in/mohamed--fathi)
+- 👨‍💻 Available at [https://www.linkedin.com/in/mohamed--fathi](https://www.linkedin.com/in/mohamed--fathi)
 
 - 💬 Ask me about **Asp.Net , Angular ⚡ ,laravel**
 
